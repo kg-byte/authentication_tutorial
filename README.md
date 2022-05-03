@@ -7,4 +7,5 @@
     * `rails db:create`
     * `rails db:migrate`
     * `rails db:seed`
-*https://backend.turing.edu/module2/lessons/authentication
+## Tutorial
+https://backend.turing.edu/module2/lessons/authentication
